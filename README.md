@@ -4,7 +4,7 @@
 - 💞️ Procuro colaborar em automações de testes de software
 - 📫 Como entrar em contato comigo através do meu Linkedin: www.linkedin.com/in/danilo-tavares-silva-63212148
 
-==============================================================================================================
+=============================================================================
 
 - 👋 Hi, I’m @DaniloTSilva
 - 👀 I’m interested in partnerships and work involving software test automation with robot framework and Python.
